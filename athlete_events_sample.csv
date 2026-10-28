@@ -1,0 +1,76 @@
+ID,Name,Sex,Age,Height,Weight,Team,NOC,Games,Year,Season,City,Sport,Event,Medal
+1,Sample Athlete 1,M,24,180,80,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 100 metres,Gold
+2,Sample Athlete 2,M,25,178,76,Jamaica,JAM,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 100 metres,Silver
+3,Sample Athlete 3,M,23,175,70,Canada,CAN,2016 Summer,2016,Summer,Rio de Janeiro,Athletics,Athletics Men's 100 metres,Bronze
+4,Sample Athlete 4,F,22,168,58,United States,USA,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,Gold
+5,Sample Athlete 5,F,21,165,55,Australia,AUS,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,Silver
+6,Sample Athlete 6,F,23,170,60,Canada,CAN,2016 Summer,2016,Summer,Rio de Janeiro,Swimming,Swimming Women's 100 metres Freestyle,No Medal
+7,Sample Athlete 7,M,28,190,90,Germany,GER,2012 Summer,2012,Summer,London,Basketball,Basketball Men's Basketball,Gold
+8,Sample Athlete 8,M,26,188,85,Spain,ESP,2012 Summer,2012,Summer,London,Basketball,Basketball Men's Basketball,Silver
+9,Sample Athlete 9,M,27,185,82,France,FRA,2012 Summer,2012,Summer,London,Basketball,Basketball Men's Basketball,Bronze
+10,Sample Athlete 10,F,20,160,52,China,CHN,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's All-Around,Gold
+11,Sample Athlete 11,F,19,158,50,Romania,ROU,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's All-Around,Silver
+12,Sample Athlete 12,F,21,162,53,Russia,RUS,2008 Summer,2008,Summer,Beijing,Gymnastics,Gymnastics Women's All-Around,Bronze
+13,Sample Athlete 13,M,30,182,78,United States,USA,2004 Summer,2004,Summer,Athens,Cycling,Cycling Men's Road Race,Gold
+14,Sample Athlete 14,M,29,180,75,Italy,ITA,2004 Summer,2004,Summer,Athens,Cycling,Cycling Men's Road Race,Silver
+15,Sample Athlete 15,M,27,176,72,Australia,AUS,2004 Summer,2004,Summer,Athens,Cycling,Cycling Men's Road Race,Bronze
+16,Sample Athlete 16,F,35,204,72,United States,USA,1896 Summer,1896,Summer,Athens,Athletics,Athletics F Event,No Medal
+17,Sample Athlete 17,M,23,154,77,United Kingdom,GBR,1900 Summer,1900,Summer,Paris,Swimming,Swimming M Event,No Medal
+18,Sample Athlete 18,F,30,165,82,Germany,GER,1924 Summer,1924,Summer,Paris,Cycling,Cycling F Event,No Medal
+19,Sample Athlete 19,M,18,176,87,France,FRA,1952 Summer,1952,Summer,Helsinki,Gymnastics,Gymnastics M Event,Gold
+20,Sample Athlete 20,F,25,187,92,Japan,JPN,1988 Summer,1988,Summer,Seoul,Rowing,Rowing F Event,Silver
+21,Sample Athlete 21,M,32,198,97,China,CHN,1996 Summer,1996,Summer,Atlanta,Skiing,Skiing M Event,Bronze
+22,Sample Athlete 22,F,20,209,102,India,IND,2000 Summer,2000,Summer,Sydney,Wrestling,Wrestling F Event,No Medal
+23,Sample Athlete 23,M,27,159,51,Brazil,BRA,2010 Winter,2010,Winter,Vancouver,Tennis,Tennis M Event,No Medal
+24,Sample Athlete 24,F,34,170,56,Kenya,KEN,2014 Winter,2014,Winter,Sochi,Athletics,Athletics F Event,No Medal
+25,Sample Athlete 25,M,22,181,61,Norway,NOR,1896 Summer,1896,Summer,Athens,Swimming,Swimming M Event,Gold
+26,Sample Athlete 26,F,29,192,66,United States,USA,1900 Summer,1900,Summer,Paris,Cycling,Cycling F Event,Silver
+27,Sample Athlete 27,M,36,203,71,United Kingdom,GBR,1924 Summer,1924,Summer,Paris,Gymnastics,Gymnastics M Event,Bronze
+28,Sample Athlete 28,F,24,153,76,Germany,GER,1952 Summer,1952,Summer,Helsinki,Rowing,Rowing F Event,No Medal
+29,Sample Athlete 29,M,31,164,81,France,FRA,1988 Summer,1988,Summer,Seoul,Skiing,Skiing M Event,No Medal
+30,Sample Athlete 30,F,19,175,86,Japan,JPN,1996 Summer,1996,Summer,Atlanta,Wrestling,Wrestling F Event,No Medal
+31,Sample Athlete 31,M,26,186,91,China,CHN,2000 Summer,2000,Summer,Sydney,Tennis,Tennis M Event,Gold
+32,Sample Athlete 32,F,33,197,96,India,IND,2010 Winter,2010,Winter,Vancouver,Athletics,Athletics F Event,Silver
+33,Sample Athlete 33,M,21,208,101,Brazil,BRA,2014 Winter,2014,Winter,Sochi,Swimming,Swimming M Event,Bronze
+34,Sample Athlete 34,F,28,158,50,Kenya,KEN,1896 Summer,1896,Summer,Athens,Cycling,Cycling F Event,No Medal
+35,Sample Athlete 35,M,35,169,55,Norway,NOR,1900 Summer,1900,Summer,Paris,Gymnastics,Gymnastics M Event,No Medal
+36,Sample Athlete 36,F,23,180,60,United States,USA,1924 Summer,1924,Summer,Paris,Rowing,Rowing F Event,No Medal
+37,Sample Athlete 37,M,30,191,65,United Kingdom,GBR,1952 Summer,1952,Summer,Helsinki,Skiing,Skiing M Event,Gold
+38,Sample Athlete 38,F,18,202,70,Germany,GER,1988 Summer,1988,Summer,Seoul,Wrestling,Wrestling F Event,Silver
+39,Sample Athlete 39,M,25,152,75,France,FRA,1996 Summer,1996,Summer,Atlanta,Tennis,Tennis M Event,Bronze
+40,Sample Athlete 40,F,32,163,80,Japan,JPN,2000 Summer,2000,Summer,Sydney,Athletics,Athletics F Event,No Medal
+41,Sample Athlete 41,M,20,174,85,China,CHN,2010 Winter,2010,Winter,Vancouver,Swimming,Swimming M Event,No Medal
+42,Sample Athlete 42,F,27,185,90,India,IND,2014 Winter,2014,Winter,Sochi,Cycling,Cycling F Event,No Medal
+43,Sample Athlete 43,M,34,196,95,Brazil,BRA,1896 Summer,1896,Summer,Athens,Gymnastics,Gymnastics M Event,Gold
+44,Sample Athlete 44,F,22,207,100,Kenya,KEN,1900 Summer,1900,Summer,Paris,Rowing,Rowing F Event,Silver
+45,Sample Athlete 45,M,29,157,49,Norway,NOR,1924 Summer,1924,Summer,Paris,Skiing,Skiing M Event,Bronze
+46,Sample Athlete 46,F,36,168,54,United States,USA,1952 Summer,1952,Summer,Helsinki,Wrestling,Wrestling F Event,No Medal
+47,Sample Athlete 47,M,24,179,59,United Kingdom,GBR,1988 Summer,1988,Summer,Seoul,Tennis,Tennis M Event,No Medal
+48,Sample Athlete 48,F,31,190,64,Germany,GER,1996 Summer,1996,Summer,Atlanta,Athletics,Athletics F Event,No Medal
+49,Sample Athlete 49,M,19,201,69,France,FRA,2000 Summer,2000,Summer,Sydney,Swimming,Swimming M Event,Gold
+50,Sample Athlete 50,F,26,151,74,Japan,JPN,2010 Winter,2010,Winter,Vancouver,Cycling,Cycling F Event,Silver
+51,Sample Athlete 51,M,33,162,79,China,CHN,2014 Winter,2014,Winter,Sochi,Gymnastics,Gymnastics M Event,Bronze
+52,Sample Athlete 52,F,21,173,84,India,IND,1896 Summer,1896,Summer,Athens,Rowing,Rowing F Event,No Medal
+53,Sample Athlete 53,M,28,184,89,Brazil,BRA,1900 Summer,1900,Summer,Paris,Skiing,Skiing M Event,No Medal
+54,Sample Athlete 54,F,35,195,94,Kenya,KEN,1924 Summer,1924,Summer,Paris,Wrestling,Wrestling F Event,No Medal
+55,Sample Athlete 55,M,23,206,99,Norway,NOR,1952 Summer,1952,Summer,Helsinki,Tennis,Tennis M Event,Gold
+56,Sample Athlete 56,F,30,156,48,United States,USA,1988 Summer,1988,Summer,Seoul,Athletics,Athletics F Event,Silver
+57,Sample Athlete 57,M,18,167,53,United Kingdom,GBR,1996 Summer,1996,Summer,Atlanta,Swimming,Swimming M Event,Bronze
+58,Sample Athlete 58,F,25,178,58,Germany,GER,2000 Summer,2000,Summer,Sydney,Cycling,Cycling F Event,No Medal
+59,Sample Athlete 59,M,32,189,63,France,FRA,2010 Winter,2010,Winter,Vancouver,Gymnastics,Gymnastics M Event,No Medal
+60,Sample Athlete 60,F,20,200,68,Japan,JPN,2014 Winter,2014,Winter,Sochi,Rowing,Rowing F Event,No Medal
+61,Sample Athlete 61,M,27,150,73,China,CHN,1896 Summer,1896,Summer,Athens,Skiing,Skiing M Event,Gold
+62,Sample Athlete 62,F,34,161,78,India,IND,1900 Summer,1900,Summer,Paris,Wrestling,Wrestling F Event,Silver
+63,Sample Athlete 63,M,22,172,83,Brazil,BRA,1924 Summer,1924,Summer,Paris,Tennis,Tennis M Event,Bronze
+64,Sample Athlete 64,F,29,183,88,Kenya,KEN,1952 Summer,1952,Summer,Helsinki,Athletics,Athletics F Event,No Medal
+65,Sample Athlete 65,M,36,194,93,Norway,NOR,1988 Summer,1988,Summer,Seoul,Swimming,Swimming M Event,No Medal
+66,Sample Athlete 66,F,24,205,98,United States,USA,1996 Summer,1996,Summer,Atlanta,Cycling,Cycling F Event,No Medal
+67,Sample Athlete 67,M,31,155,103,United Kingdom,GBR,2000 Summer,2000,Summer,Sydney,Gymnastics,Gymnastics M Event,Gold
+68,Sample Athlete 68,F,19,166,52,Germany,GER,2010 Winter,2010,Winter,Vancouver,Rowing,Rowing F Event,Silver
+69,Sample Athlete 69,M,26,177,57,France,FRA,2014 Winter,2014,Winter,Sochi,Skiing,Skiing M Event,Bronze
+70,Sample Athlete 70,F,33,188,62,Japan,JPN,1896 Summer,1896,Summer,Athens,Wrestling,Wrestling F Event,No Medal
+71,Sample Athlete 71,M,21,199,67,China,CHN,1900 Summer,1900,Summer,Paris,Tennis,Tennis M Event,No Medal
+72,Sample Athlete 72,F,28,210,72,India,IND,1924 Summer,1924,Summer,Paris,Athletics,Athletics F Event,No Medal
+73,Sample Athlete 73,M,35,160,77,Brazil,BRA,1952 Summer,1952,Summer,Helsinki,Swimming,Swimming M Event,Gold
+74,Sample Athlete 74,F,23,171,82,Kenya,KEN,1988 Summer,1988,Summer,Seoul,Cycling,Cycling F Event,Silver
+75,Sample Athlete 75,M,30,182,87,Norway,NOR,1996 Summer,1996,Summer,Atlanta,Gymnastics,Gymnastics M Event,Bronze
