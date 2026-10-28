@@ -1,1 +1,0 @@
-# Vsec-mini-project
